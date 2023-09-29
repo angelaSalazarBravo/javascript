@@ -10,3 +10,5 @@ alert("you clicked on " + tof + " click me to move on!!!" );
 
 let NEW_TEXT = prompt(PROMP_1, "type something");
 alert("You typed " + NEW_TEXT + " click me to move on!!!");
+
+
